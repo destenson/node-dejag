@@ -1,0 +1,24 @@
+{
+  "name": "dejag",
+  "version": "0.1.0",
+  "description": "Converts a jagged array into a regular, one-dimensional array.",
+  "license": "MIT",
+  "private": false,
+  "author": "Dennis Estenson <node-dejag@destenson.digital>",
+  "keywords": [
+    "dejag",
+    "de-jagged-array",
+    "array"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/destenson/node-dejag.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "concat-map": "0.0.1"
+  }
+}
