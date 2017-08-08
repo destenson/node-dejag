@@ -1,5 +1,7 @@
 # About
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/destenson/node-dejag.svg)](https://greenkeeper.io/)
+
 A simple module containing a single function that takes a jagged array, and returns a flat one.
 
 ## Example
